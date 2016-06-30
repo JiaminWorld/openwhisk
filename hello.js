@@ -1,3 +1,3 @@
 function main(params) {
-   return {payload: 'Hello,'+ params.name};
+   return {payload: 'Hello, '+ params.name};
 }
