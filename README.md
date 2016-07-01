@@ -1,3 +1,2 @@
 # openwisk
-test
-test1
+This is a test from github commit notification
