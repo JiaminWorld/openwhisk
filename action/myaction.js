@@ -14,5 +14,5 @@ function main(params) {
 	         "payload": output
 	        }};
 }
-//
+
 /* Hint: To invoke this action, click Run This Action */
