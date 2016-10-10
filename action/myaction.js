@@ -12,7 +12,7 @@ function main(params) {
 	var output = params.commits[0].message;
 	return { "text": output,
 	         "payload": output
-	        }};
+	        };
 }
 
 /* Hint: To invoke this action, click Run This Action */
